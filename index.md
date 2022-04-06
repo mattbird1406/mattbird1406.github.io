@@ -1,2 +1,2 @@
 
-![Us](/least-github-pages/assets/us.png)
+![Us](/docs/assets/us.png)
